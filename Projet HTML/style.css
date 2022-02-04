@@ -1,0 +1,50 @@
+nav {
+    color: lightpink
+}
+
+a {
+    color: lightskyblue
+}
+
+h1 {
+    color: lightpink;
+    text-align: center;
+    margin-left: 20%;
+}
+
+form {
+    text-align: center;
+    color: white;
+    margin-left: 20%;
+}
+
+body {
+    background-image: url('/714517.jpg');
+    width: 80%;
+    background-repeat: no-repeat;
+}
+
+#contener {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    text-align: center;
+    color:lightyellow;
+}
+
+#rot {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 20%;
+}
+
+.menu {
+    padding: 20px;
+    padding-left: 0px;
+}
+
+
